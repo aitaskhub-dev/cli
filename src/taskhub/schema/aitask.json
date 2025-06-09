@@ -1,0 +1,5 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microwiseai/taskhub/main/schemas/aitask.json",
+    "name": "development",
+    "version": "0.1.0"
+}

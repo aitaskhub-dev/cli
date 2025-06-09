@@ -1,0 +1,13 @@
+[project]
+name = "taskhub"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Sisung Kim",email = "info@microwiseai.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic (>=2.11.5,<3.0.0)"
+]
+
